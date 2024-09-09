@@ -21,7 +21,7 @@ export const experiences = [
     joined: "June'20",
     end: "October'20",
     title: "Network Analyst - Apprenticeship",
-    bio: "Managed the development, deployment, and training of the RTS system and internal systems suite, and analyzed data traces using protocol analyzers to identify anomalies and implement solutions.",
+    bio: "Managed the development, deployment, and training of the RTS system and internal systems suite, and analyzed data traces using protocol analyzers.",
     color: green,
   },
   {

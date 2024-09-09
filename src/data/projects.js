@@ -6,23 +6,23 @@ import getv from "../assets/images/get-v.jpg";
 
 export const projects = [
   {
-    title: "Get Vulnerable",
+    title: "Groove",
     image: getv,
-    link: "https://get-vulnerable.teshank.dev",
+    github: "https://get-vulnerable.teshank.dev",
     description:
-      "Game which encourages the players to open up by asking questions",
+      "This is a web-based application used to enhance cryptography education through interactive visualizations of key cryptographic primitives and protocols.",
   },
   {
     title: "Semicolon",
     image: semicolon,
-    link: "https://github.com/teshank2137/semicolon.md",
+    github: "https://github.com/teshank2137/semicolon.md",
     description:
       "Mental health support by predicting and offering activities for mood upliftment.",
   },
   {
     title: "Send form to me",
     image: sendfrom,
-    link: "https://sendformto.me",
+    github: "https://sendformto.me",
     description:
       "Backend-as-a-service for creating forms with unique URLs and email notifications.",
   },
@@ -31,7 +31,7 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/fanmerch.png",
     github: "https://github.com/teshank2137/fanMerch",
-    link: "https://fan-merch.vercel.app/",
+    // link: "https://fan-merch.vercel.app/",
     description:
       "A conceptual website for social media influence's to sell their merch.",
   },
@@ -41,7 +41,7 @@ export const projects = [
       "A Twitter bot that scans Twitter for job/intern posting and retweets top tweets daily.",
     image:
       "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/Techie.png",
-    link: "https://twitter.com/FindTechie",
+      github: "https://twitter.com/FindTechie",
   },
   {
     title: "React Infinite scroll",
