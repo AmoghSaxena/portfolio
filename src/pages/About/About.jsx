@@ -53,36 +53,37 @@ export const About = () => {
             As a Full Stack Engineer, I specialize in taking products from concept 
             to launch. Currently advancing my knowledge with an MSc, I'm driven by 
             a passion for problem-solving and innovation in tech.
-            <br />I was born and raised in Nagpur, India. I love to play guitar
+            {/* <br />
+            I was born and raised in Nagpur, India. I love to play guitar
             and ukulele and in my free time I like to read books, watch movies
-            and play video games.
+            and play video games. */}
           </Paragraph>
           <Educations>
             <AboutItem
               color={blue}
               active
               data={{
-                title: "D.Y. Patil college of engineering, Pune",
-                p: "Bachelors of Computer Engineering (2019-2023)",
+                title: "MSc in Advanced Computer Science with Artificial Intelligence (2023-2024)",
+                p: "University Of Strathclyde, Glasgow (UK)",
                 image: dyp,
               }}
             />
             <AboutItem
               color={green}
               data={{
-                title: "M.P. Deo D. Science College, Nagpur",
-                p: "High School (2017-2019)",
+                title: "MSc in Advanced Computer Science with Artificial Intelligence (2017-2021)",
+                p: "Medi-Caps University, Indore (India)",
                 image: highschool,
               }}
             />
-            <AboutItem
+            {/* <AboutItem
               color={yellow}
               data={{
                 title: "School of Scholars, Nagpur",
                 p: "Secondary Education (2007-2017)",
                 image: sos,
               }}
-            />
+            /> */}
           </Educations>
         </Text>
         <SkillsWrapper>
