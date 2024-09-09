@@ -3,33 +3,38 @@ import sendfrom from "../assets/images/sendform.jpg";
 import semicolon from "../assets/images/semicolon.png";
 import scroll from "../assets/images/scroll.jpg";
 import getv from "../assets/images/get-v.jpg";
+import groove from "../assets/images/groove.png";
+import iptv from "../assets/images/iptv.png";
+import pypad from "../assets/images/pypad.png";
+import ticker from "../assets/images/ticker.png";
+import usc from "../assets/images/usc.png";
+import wgan from "../assets/images/wgan.png";
 
 export const projects = [
   {
     title: "Groove",
-    image: getv,
+    image: groove,
     github: "https://github.com/AmoghSaxena/groove",
     description:
       "This is a web-based application used to enhance cryptography education through interactive visualizations.",
   },
   {
     title: "congenial-fiesta",
-    image: semicolon,
+    image: wgan,
     github: "https://github.com/AmoghSaxena/congenial-fiesta",
     description:
       "This project compares WGAN and VAE for image generation using the CIFAR-10 dataset.",
   },
   {
     title: "Ubuntu-Shortcut-Creator",
-    image: sendfrom,
+    image: usc,
     github: "https://github.com/AmoghSaxena/Ubuntu-Shortcut-Creator",
     description:
       "This script can help you to create a short in Ubuntu or any ubuntu based OS.",
   },
   {
     title: "PyPad",
-    image:
-      "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/fanmerch.png",
+    image: pypad,
     github: "https://github.com/AmoghSaxena/PyPad",
     // link: "https://fan-merch.vercel.app/",
     description:
@@ -39,14 +44,13 @@ export const projects = [
     title: "OnScreen Ticker & Promotions",
     description:
       "A Linux Program for On-Screen Advertisements and promotions like shown in News Channels.",
-    image:
-      "https://amoghsaxena.com/wp-content/uploads/2020/04/Screenshot-from-2022-06-18-14-22-22.png",
+    image: ticker,
       github: "https://github.com/AmoghSaxena/OnScreen-Ticker-and-Promotions",
   },
   {
     title: "IPTV Stream Verification",
     description: "The program is simple and used to check the working of IPTV Channels.",
-    image: scroll,
+    image: iptv,
     // link: "https://react-infinite-scroll-nu.vercel.app/",
     github: "https://github.com/AmoghSaxena/IPTV-Stream-Verification",
   },
