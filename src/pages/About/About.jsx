@@ -49,9 +49,10 @@ export const About = () => {
       <Page header="About">
         <Text>
           <Paragraph>
-            I'm a passionate programmer, who is always looking for new
-            challenges to improve myself, also a team player, who is always
-            ready to learn new things and help others.
+            I'm detail-oriented Software Developer dedicated to building high-quality products. 
+            As a Full Stack Engineer, I specialize in taking products from concept 
+            to launch. Currently advancing my knowledge with an MSc, I'm driven by 
+            a passion for problem-solving and innovation in tech.
             <br />I was born and raised in Nagpur, India. I love to play guitar
             and ukulele and in my free time I like to read books, watch movies
             and play video games.
