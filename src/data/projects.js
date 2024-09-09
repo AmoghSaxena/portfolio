@@ -40,7 +40,7 @@ export const projects = [
     description:
       "A Linux Program for On-Screen Advertisements and promotions like shown in News Channels.",
     image:
-      "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/Techie.png",
+      "https://amoghsaxena.com/wp-content/uploads/2020/04/Screenshot-from-2022-06-18-14-22-22.png",
       github: "https://github.com/AmoghSaxena/OnScreen-Ticker-and-Promotions",
   },
   {
