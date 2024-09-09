@@ -3,80 +3,84 @@ import sendfrom from "../assets/images/sendform.jpg";
 import semicolon from "../assets/images/semicolon.png";
 import scroll from "../assets/images/scroll.jpg";
 import getv from "../assets/images/get-v.jpg";
+import groove from "../assets/images/groove.png";
+import iptv from "../assets/images/iptv.png";
+import pypad from "../assets/images/pypad.png";
+import ticker from "../assets/images/ticker.png";
+import usc from "../assets/images/usc.png";
+import wgan from "../assets/images/wgan.png";
 
 export const projects = [
   {
-    title: "Get Vulnerable",
-    image: getv,
-    link: "https://get-vulnerable.teshank.dev",
+    title: "Groove",
+    image: groove,
+    github: "https://github.com/AmoghSaxena/groove",
     description:
-      "Game which encourages the players to open up by asking questions",
+      "This is a web-based application used to enhance cryptography education through interactive visualizations.",
   },
   {
-    title: "Semicolon",
-    image: semicolon,
-    link: "https://github.com/teshank2137/semicolon.md",
+    title: "congenial-fiesta",
+    image: wgan,
+    github: "https://github.com/AmoghSaxena/congenial-fiesta",
     description:
-      "Mental health support by predicting and offering activities for mood upliftment.",
+      "This project compares WGAN and VAE for image generation using the CIFAR-10 dataset.",
   },
   {
-    title: "Send form to me",
-    image: sendfrom,
-    link: "https://sendformto.me",
+    title: "Ubuntu-Shortcut-Creator",
+    image: usc,
+    github: "https://github.com/AmoghSaxena/Ubuntu-Shortcut-Creator",
     description:
-      "Backend-as-a-service for creating forms with unique URLs and email notifications.",
+      "This script can help you to create a short in Ubuntu or any ubuntu based OS.",
   },
   {
-    title: "Fan Merch",
-    image:
-      "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/fanmerch.png",
-    github: "https://github.com/teshank2137/fanMerch",
-    link: "https://fan-merch.vercel.app/",
+    title: "PyPad",
+    image: pypad,
+    github: "https://github.com/AmoghSaxena/PyPad",
+    // link: "https://fan-merch.vercel.app/",
     description:
-      "A conceptual website for social media influence's to sell their merch.",
+      "PyPad is a lightweight and easy-to-use text editor built with Python and the Tkinter library.",
   },
   {
-    title: "Find Techie",
+    title: "OnScreen Ticker & Promotions",
     description:
-      "A Twitter bot that scans Twitter for job/intern posting and retweets top tweets daily.",
-    image:
-      "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/Techie.png",
-    link: "https://twitter.com/FindTechie",
+      "A Linux Program for On-Screen Advertisements and promotions like shown in News Channels.",
+    image: ticker,
+      github: "https://github.com/AmoghSaxena/OnScreen-Ticker-and-Promotions",
   },
   {
-    title: "React Infinite scroll",
-    description: "Infinite scrolling using custom hook and ObservableAPI",
-    image: scroll,
-    link: "https://react-infinite-scroll-nu.vercel.app/",
-    github: "https://github.com/teshank2137/react-infinite-scroll",
+    title: "IPTV Stream Verification",
+    description: "The program is simple and used to check the working of IPTV Channels.",
+    image: iptv,
+    // link: "https://react-infinite-scroll-nu.vercel.app/",
+    github: "https://github.com/AmoghSaxena/IPTV-Stream-Verification",
   },
-  {
-    title: "Smart Attendance App",
-    description:
-      "A mobile app in which the user can track and mark attendance using face verification.",
-    image:
-      "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/smartattendance.png",
-    github: "https://github.com/teshank2137/smartAtendence",
-  },
-  {
-    title: "Stock Market Prediction API",
-    description:
-      "An API Which predicts the next day's closing price of a stock.",
-    image: stonks,
-    github: "https://github.com/teshank2137/stockprediction",
-  },
-  {
-    title: "Algorithm Visualizer",
-    description: "Web App to visualize the searching and sorting algorithms",
-    image:
-      "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/sort.JPG",
-    link: "https://teshank2137.github.io/#/",
-  },
-  {
-    title: "Portfolio v1",
-    description: "Built using ReactJS, ThreeJS, CSS3 and lots of ❤️ love.",
-    image:
-      "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/port.JPG",
-    link: "https://www.v1.teshank.dev/",
-  },
+  // {
+  //   title: "Smart Attendance App",
+  //   description:
+  //     "A mobile app in which the user can track and mark attendance using face verification.",
+  //   image:
+  //     "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/smartattendance.png",
+  //   github: "https://github.com/teshank2137/smartAtendence",
+  // },
+  // {
+  //   title: "Stock Market Prediction API",
+  //   description:
+  //     "An API Which predicts the next day's closing price of a stock.",
+  //   image: stonks,
+  //   github: "https://github.com/teshank2137/stockprediction",
+  // },
+  // {
+  //   title: "Algorithm Visualizer",
+  //   description: "Web App to visualize the searching and sorting algorithms",
+  //   image:
+  //     "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/sort.JPG",
+  //   link: "https://teshank2137.github.io/#/",
+  // },
+  // {
+  //   title: "Portfolio v1",
+  //   description: "Built using ReactJS, ThreeJS, CSS3 and lots of ❤️ love.",
+  //   image:
+  //     "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/port.JPG",
+  //   link: "https://www.v1.teshank.dev/",
+  // },
 ];

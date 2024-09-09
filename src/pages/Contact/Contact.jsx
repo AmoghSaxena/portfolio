@@ -84,7 +84,7 @@ export const Contact = () => {
             </a>
 
             <a
-              href="#"
+              href="https://files.rexter.co.uk/documents/wp-content/uploads/2024/09/AmoghResume.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >

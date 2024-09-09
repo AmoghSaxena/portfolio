@@ -2,44 +2,48 @@ import genio from "../assets/images/genio.jpeg";
 import draic from "../assets/images/image2.png";
 import rbl from "../assets/images/RBL.png";
 import stealth from "../assets/images/stealth.jpeg";
+import digivalet from "../assets/images/digivalet.jpeg";
+import cisco from "../assets/images/cisco.jpeg";
+import kangaroo from "../assets/images/kangaroo.jpeg";
+import shiva from "../assets/images/shiva.jpeg";
 
 import { blue, green, pink, yellow } from "../utils";
 
 export const experiences = [
   {
-    logo: stealth,
-    name: "Stealth Startup",
-    joined: "Sept'22",
-    end: "Feb'23",
-    title: "Full Stack Developer",
-    bio: "Utilized ExpressJS for backend authentication and rate limitation. The frontend ReactJS code was optimized, eliminating re-renders to enhance performance and user experience. A ReactJS and ExpressJS-based admin panel was developed for data visualization and transaction management.",
+    logo: digivalet,
+    name: "Digivalet",
+    joined: "Jan'21",
+    end: "March'23",
+    title: "Research and Development",
+    bio: "Developed an On-Screen Promotion Tool for hotel rooms in Python, created an Auto Provisioning Server to streamline installation of room controllers, and maintained the Modern Analytics and Reporting System (MARS) for detailed guest activity analysis.",
     color: blue,
   },
   {
-    logo: rbl,
-    name: "RBL Bank",
-    joined: "June'22",
-    end: "July'22",
-    title: "Summer Intern",
-    bio: "Brainstormed various ideas with mentors and teammates for MoBank app. Developed HR portal backend using Django",
+    logo: cisco,
+    name: "Cisco Networking Academy",
+    joined: "June'20",
+    end: "October'20",
+    title: "Network Analyst - Apprenticeship",
+    bio: "Managed the development, deployment, and training of the RTS system and internal systems suite, and analyzed data traces using protocol analyzers.",
     color: green,
   },
   {
-    logo: genio,
-    name: "GenioBits",
-    joined: "Dec'21",
-    end: "Mar'22",
-    title: "Full Stack Developer",
-    bio: "Worked on various projects from basic static sites to dynamic complex websites using ReactJS, Built Rest API's for various use cases",
+    logo: shiva,
+    name: "Shiva Concept Solution",
+    joined: "May'19",
+    end: "August'19",
+    title: "Python Developer - Internship",
+    bio: "Troubleshot and debugged code for compatibility across devices, browsers, and operating systems, and collaborated with project managers and the development team to brainstorm new ideas.",
     color: yellow,
   },
   {
-    logo: draic,
-    name: "DRAIC",
-    joined: "Sept'19",
-    end: "Jan'22",
-    title: "Team Member",
-    bio: "In D.Y. Patil Robotics and A.I. club we developed collaborative skills. Built amazing projects and brainstormed on various problem statements",
+    logo: kangaroo,
+    name: "Kangaroo Software",
+    joined: "May'19",
+    end: "August'19",
+    title: "Web Developer - Intership",
+    bio: "Created, maintained, and monitored a comprehensive online e-commerce shop, managed over 20 microservices for five clients, and developed user interfaces using modern JavaScript frameworks, HTML5, and CSS3.",
     color: pink,
   },
 ];
