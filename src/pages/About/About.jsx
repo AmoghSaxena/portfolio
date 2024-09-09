@@ -73,7 +73,7 @@ export const About = () => {
             <AboutItem
               color={green}
               data={{
-                title: "MSc in Advanced Computer Science with Artificial Intelligence (2017-2021)",
+                title: "Bachelors in Computer Science with Artificial Intelligence (2017-2021)",
                 p: "Medi-Caps University, Indore (India)",
                 image: medicaps,
               }}
