@@ -8,16 +8,16 @@ export const projects = [
   {
     title: "Groove",
     image: getv,
-    github: "https://get-vulnerable.teshank.dev",
+    github: "https://github.com/AmoghSaxena/groove",
     description:
-      "This is a web-based application used to enhance cryptography education through interactive visualizations of key cryptographic primitives and protocols.",
+      "This is a web-based application used to enhance cryptography education through interactive visualizations.",
   },
   {
-    title: "Semicolon",
+    title: "congenial-fiesta",
     image: semicolon,
-    github: "https://github.com/teshank2137/semicolon.md",
+    github: "https://github.com/AmoghSaxena/congenial-fiesta",
     description:
-      "Mental health support by predicting and offering activities for mood upliftment.",
+      "This project compares WGAN and VAE for image generation using the CIFAR-10 dataset.",
   },
   {
     title: "Send form to me",
