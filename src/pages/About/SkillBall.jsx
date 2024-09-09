@@ -14,19 +14,17 @@ const Skills = () => {
   };
   const skills = [
     "Python",
-    "JavaScript",
-    "TypeScript",
-    "Dart",
+    "Machine Learning",
+    "Data Science",
+    "Cloud Computing",
     "HTML",
     "CSS",
     "Django",
-    "Flutter",
-    "ReactJs",
-    "NextJS",
-    "NodeJs",
-    "ExpressJS",
-    "ThreeJs",
-    "Redux",
+    "Networking",
+    "Linux",
+    "Shell",
+    "Docker",
+    "Kubernetes",
   ];
   const g = useRef();
   useFrame(() => {
