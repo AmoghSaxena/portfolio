@@ -12,6 +12,8 @@ import highschool from "../../assets/images/highschool.jpeg";
 import sos from "../../assets/images/sos.png";
 import { useInView } from "react-intersection-observer";
 import { useState } from "react";
+import strathclyde from "../../assets/images/strathclyde.jpeg";
+import medicaps from "../../assets/images/medicaps.jpeg";
 
 export const About = () => {
   const { ref, inView } = useInView({});
@@ -65,7 +67,7 @@ export const About = () => {
               data={{
                 title: "MSc in Advanced Computer Science with Artificial Intelligence (2023-2024)",
                 p: "University Of Strathclyde, Glasgow (UK)",
-                image: dyp,
+                image: strathclyde,
               }}
             />
             <AboutItem
@@ -73,7 +75,7 @@ export const About = () => {
               data={{
                 title: "MSc in Advanced Computer Science with Artificial Intelligence (2017-2021)",
                 p: "Medi-Caps University, Indore (India)",
-                image: highschool,
+                image: medicaps,
               }}
             />
             {/* <AboutItem

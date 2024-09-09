@@ -2,12 +2,16 @@ import genio from "../assets/images/genio.jpeg";
 import draic from "../assets/images/image2.png";
 import rbl from "../assets/images/RBL.png";
 import stealth from "../assets/images/stealth.jpeg";
+import digivalet from "../assets/images/digivalet.jpeg";
+import cisco from "../assets/images/cisco.jpeg";
+import kangaroo from "../assets/images/kangaroo.jpeg";
+import shiva from "../assets/images/shiva.jpeg";
 
 import { blue, green, pink, yellow } from "../utils";
 
 export const experiences = [
   {
-    logo: stealth,
+    logo: digivalet,
     name: "Digivalet",
     joined: "Jan'21",
     end: "March'23",
@@ -16,7 +20,7 @@ export const experiences = [
     color: blue,
   },
   {
-    logo: rbl,
+    logo: cisco,
     name: "Cisco Networking Academy",
     joined: "June'20",
     end: "October'20",
@@ -25,7 +29,7 @@ export const experiences = [
     color: green,
   },
   {
-    logo: genio,
+    logo: shiva,
     name: "Shiva Concept Solution",
     joined: "May'19",
     end: "August'19",
@@ -34,7 +38,7 @@ export const experiences = [
     color: yellow,
   },
   {
-    logo: draic,
+    logo: kangaroo,
     name: "Kangaroo Software",
     joined: "May'19",
     end: "August'19",
