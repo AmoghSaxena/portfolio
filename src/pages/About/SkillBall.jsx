@@ -25,6 +25,15 @@ const Skills = () => {
     "Shell",
     "Docker",
     "Kubernetes",
+    "Bash",
+    "JavaScript",
+    "React",
+    "Node.Js",
+    "Git",
+    "Linux",
+    "Grafana",
+    "Nginx",
+    "AWS",
   ];
   const g = useRef();
   useFrame(() => {
