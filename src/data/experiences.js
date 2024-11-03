@@ -2,7 +2,7 @@ import genio from "../assets/images/genio.jpeg";
 import draic from "../assets/images/image2.png";
 import rbl from "../assets/images/RBL.png";
 import stealth from "../assets/images/stealth.jpeg";
-import clyde from "../assets/images/clyde.png"
+import clyde from "../assets/images/clyde_ventures_logo.jpeg"
 import digivalet from "../assets/images/digivalet.jpeg";
 import cisco from "../assets/images/cisco.jpeg";
 import kangaroo from "../assets/images/kangaroo.jpeg";
