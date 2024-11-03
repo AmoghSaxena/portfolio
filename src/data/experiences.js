@@ -2,6 +2,7 @@ import genio from "../assets/images/genio.jpeg";
 import draic from "../assets/images/image2.png";
 import rbl from "../assets/images/RBL.png";
 import stealth from "../assets/images/stealth.jpeg";
+import clyde from "../assets/images/clyde.png"
 import digivalet from "../assets/images/digivalet.jpeg";
 import cisco from "../assets/images/cisco.jpeg";
 import kangaroo from "../assets/images/kangaroo.jpeg";
@@ -11,11 +12,11 @@ import { blue, green, pink, yellow } from "../utils";
 
 export const experiences = [
   {
-    logo: kangaroo,
+    logo: clyde,
     name: "Clyde Ventures",
     joined: "Oct' 24",
-    end: "",
-    title: "Web Developer - Intership",
+    end: "Present",
+    title: "Consultant Developer",
     bio: "Created, maintained, and monitored a comprehensive online e-commerce shop, managed over 20 microservices for five clients, and developed user interfaces using modern JavaScript frameworks, HTML5, and CSS3.",
     color: pink,
   },
