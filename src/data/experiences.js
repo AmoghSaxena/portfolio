@@ -17,7 +17,7 @@ export const experiences = [
     joined: "Oct' 24",
     end: "Present",
     title: "Consultant Developer",
-    bio: "Created, maintained, and monitored a comprehensive online e-commerce shop, managed over 20 microservices for five clients, and developed user interfaces using modern JavaScript frameworks, HTML5, and CSS3.",
+    bio: "Collaborated with Scottish Power teams to design, develop, and deploy high-quality user-friendly applications for improved customer experience and satisfaction.",
     color: pink,
   },
   {
