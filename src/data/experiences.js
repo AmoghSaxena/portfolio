@@ -11,6 +11,15 @@ import { blue, green, pink, yellow } from "../utils";
 
 export const experiences = [
   {
+    logo: kangaroo,
+    name: "Clyde Ventures",
+    joined: "Oct' 24",
+    end: "",
+    title: "Web Developer - Intership",
+    bio: "Created, maintained, and monitored a comprehensive online e-commerce shop, managed over 20 microservices for five clients, and developed user interfaces using modern JavaScript frameworks, HTML5, and CSS3.",
+    color: pink,
+  },
+  {
     logo: digivalet,
     name: "Digivalet",
     joined: "Jan'21",
@@ -36,14 +45,5 @@ export const experiences = [
     title: "Python Developer - Internship",
     bio: "Troubleshot and debugged code for compatibility across devices, browsers, and operating systems, and collaborated with project managers and the development team to brainstorm new ideas.",
     color: yellow,
-  },
-  {
-    logo: kangaroo,
-    name: "Kangaroo Software",
-    joined: "May'19",
-    end: "August'19",
-    title: "Web Developer - Intership",
-    bio: "Created, maintained, and monitored a comprehensive online e-commerce shop, managed over 20 microservices for five clients, and developed user interfaces using modern JavaScript frameworks, HTML5, and CSS3.",
-    color: pink,
   },
 ];
