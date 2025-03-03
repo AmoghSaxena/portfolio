@@ -34,6 +34,8 @@ const Skills = () => {
     "Grafana",
     "Nginx",
     "AWS",
+    "Salesforce",
+    "Database",
   ];
   const g = useRef();
   useFrame(() => {
